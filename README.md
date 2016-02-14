@@ -49,6 +49,9 @@ http://ispprotect.com/documentation/
 16-)Three tools to scan a Linux server for Malware and Rootkits
 https://www.howtoforge.com/tutorial/how-to-scan-linux-for-malware-and-rootkits/
 
+17-)JShielder Secure LAMP Deployer for Linux Servers
+https://github.com/Jsitech/JShielder
+
 
 
 

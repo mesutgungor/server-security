@@ -43,4 +43,14 @@ http://www.open-scap.org/
 14-)Security Harden CentOS 7
 https://highon.coffee/blog/security-harden-centos-7/
 
+15-)Scan for Malware with ISPProtect
+http://ispprotect.com/documentation/
+
+16-)Three tools to scan a Linux server for Malware and Rootkits
+https://www.howtoforge.com/tutorial/how-to-scan-linux-for-malware-and-rootkits/
+
+
+
+
+
 

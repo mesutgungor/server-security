@@ -1,4 +1,4 @@
-# server-security
+# LAMP stack and Linux server security hardening
 Linux Server Security Hardening Bookmarks
 
 1-)Hardening CentOS
